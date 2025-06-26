@@ -75,7 +75,7 @@ This engine tokenizes code using a custom lexical analyzer and detects plagiariz
 1. Compile using any C++17+ compiler:
 
    ```bash
-   g++ -std=c++17 main.cpp tokenize_demon.cpp -o plagiarism_detector
+   g++ -std=c++17 main.cpp tokenize_demo.cpp -o plagiarism_detector
    ```
 
 2. Run and interact:
